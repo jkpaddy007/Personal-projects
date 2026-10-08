@@ -1,1 +1,1 @@
-# Personal-projects
+# Number guessing game
